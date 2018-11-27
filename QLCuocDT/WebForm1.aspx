@@ -15,6 +15,7 @@
 
             <div class="panel-heading text-center">
                 <h2>QUẢN LÝ CƯỚC ĐIỆN THOẠI</h2>
+                <h2>QUẢN LÝ CƯỚC ĐIỆN THOẠI</h2>
             </div>
          
             
